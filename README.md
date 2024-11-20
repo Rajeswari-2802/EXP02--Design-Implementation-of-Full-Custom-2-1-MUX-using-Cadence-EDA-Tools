@@ -9,7 +9,6 @@ Tools Required:
 
 ![Image](https://github.com/user-attachments/assets/f7b7d46b-d37f-4e71-8667-44784b9cf1d6)
 
-
 S C H E M A T I C S I M U L A T I O N
 PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION
 Commands to get into Cadence
